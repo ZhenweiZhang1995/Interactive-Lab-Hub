@@ -2,5 +2,5 @@
 
 [Arduino code](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub/blob/master/JackInABox.ino)  
 [Illustrator file for my Jack]()  
-[Video of my box]()  
+[Video of my box](https://youtu.be/vXcM9YRCvus)  
 
