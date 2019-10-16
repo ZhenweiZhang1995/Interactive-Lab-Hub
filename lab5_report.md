@@ -4,3 +4,5 @@
 [STL file for my Jack](https://www.myminifactory.com/object/3d-print-low-poly-pikachu-multi-and-dual-extrusion-version-24794)  
 [Video of my box](https://youtu.be/vXcM9YRCvus)  
 
+![Box](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub/blob/master/IMG_1470.jpg)
+![Jack- Pikachu](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub/blob/master/pikachu.png)
