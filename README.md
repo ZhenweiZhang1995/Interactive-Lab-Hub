@@ -7,5 +7,5 @@ Completed Labs for Zhenwei Zhang
 3. [Zhenwei Zhang's Lab 2](https://github.com/ZhenweiZhang1995/IDD-Fa19-Lab2)  
 4. [Zhenwei Zhang's Lab 3](https://github.com/ZhenweiZhang1995/IDD-Fa19-Lab3) . 
 5. [Zhenwei Zhang's Lab 4](https://youtu.be/lnlFy87Xw1w)
-6. [Zhenwei Zhang's Lab 5](https://github.com/ZhenweiZhang1995/IDD-Fa19-Lab5) . 
+6. [Zhenwei Zhang's Lab 5](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub/blob/master/lab5_report.md)  
 7. [Zhenwei Zhang's Lab 6](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub/blob/master/chatServer.js)
