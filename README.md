@@ -8,4 +8,4 @@ Completed Labs for Zhenwei Zhang
 4. [Zhenwei Zhang's Lab 3](https://github.com/ZhenweiZhang1995/IDD-Fa19-Lab3) . 
 5. [Zhenwei Zhang's Lab 4](https://github.com/ZhenweiZhang1995/IDD-Fa19-Lab4)
 6. [Zhenwei Zhang's Lab 5](https://github.com/ZhenweiZhang1995/IDD-Fa19-Lab5) . 
-7. [Zhenwei Zhang's Lab 6](https://github.com/ZhenweiZhang1995/IDD-Fa19-Lab6)
+7. [Zhenwei Zhang's Lab 6](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub/blob/master/chatServer.js)
