@@ -126,19 +126,7 @@ var ans;
        waitTime = 5000;
      }
     }
-/*    answer = 'Now I will show you AI can read your mind';
-    waitTime = 5000;
-    question = 'First grad a piece of paper, when you are ready, type anything you want.';
-  } else if (questionNum == 6) {
-    answer = 'Pick a number between 1 and 25, donot let me know!';
-    waitTime = 5000;
-  } else if (questionNum == 7) {
-    answer = 'Add 9 to it';
-    waitTime = 5000;
-  } else if (questionNum == 8){
-    answer = 'Multiply the result by 3';
-    waitTime = 5000;
-  }*/
+
 
 
   /// We take the changed data and distribute it across the required objects.
